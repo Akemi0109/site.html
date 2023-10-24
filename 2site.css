@@ -1,4 +1,25 @@
-.basquete{
+h1{
+    background-color: rgb(6, 6, 69);
+    color: aliceblue;
+}
+body{
+background-color: rgb(246, 237, 216);    
+}
+
+
+basquete{
     font-size: 25px;
     color: rgb(60, 45, 31);
+    background-color: rgb(148, 148, 249);
+}
+bola{
+    background-color: rgb(111, 111, 222);
+}
+
+tampa{
+    background-color: rgb(70, 70, 140);
+}
+
+pessoa{
+    background-color: rgb(37, 37, 72);
 }
